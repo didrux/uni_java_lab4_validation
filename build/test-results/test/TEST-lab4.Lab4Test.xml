@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab4.Lab4Test" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-12-13T09:11:01" hostname="DESKTOP-TVLHH8O" time="0.242">
+  <properties/>
+  <testcase name="testEmployeeBuilderAddress[0](lab4.Employee$EmployeeBuilder@3569fc08)" classname="lab4.Lab4Test" time="0.025"/>
+  <testcase name="testEmployeeBuilderName[0](lab4.Employee$EmployeeBuilder@c5ee75e)" classname="lab4.Lab4Test" time="0.013"/>
+  <testcase name="testEmployeeBuilderPhoneNumber[0](lab4.Employee$EmployeeBuilder@14d14731)" classname="lab4.Lab4Test" time="0.012"/>
+  <testcase name="testEmployeeBuilderSalary[0](lab4.Employee$EmployeeBuilder@463b4ac8)" classname="lab4.Lab4Test" time="0.019"/>
+  <testcase name="testProducerBuilderAddress[0](lab4.Producer$ProducerBuilder@774698ab)" classname="lab4.Lab4Test" time="0.025"/>
+  <testcase name="testProducerBuilderContactPerson[0](lab4.Producer$ProducerBuilder@5d2a4eed)" classname="lab4.Lab4Test" time="0.017"/>
+  <testcase name="testProducerBuilderName[0](lab4.Producer$ProducerBuilder@686449f9)" classname="lab4.Lab4Test" time="0.013"/>
+  <testcase name="testProductBuilderBarcode[0](lab4.Product$ProductBuilder@5dd91bca)" classname="lab4.Lab4Test" time="0.023"/>
+  <testcase name="testProductBuilderCategory[0](lab4.Product$ProductBuilder@7c209437)" classname="lab4.Lab4Test" time="0.014"/>
+  <testcase name="testProductBuilderName[0](lab4.Product$ProductBuilder@a776e)" classname="lab4.Lab4Test" time="0.017"/>
+  <testcase name="testProductBuilderPrice[0](lab4.Product$ProductBuilder@1fcb4808)" classname="lab4.Lab4Test" time="0.022"/>
+  <testcase name="testProductBuilderQuantity[0](lab4.Product$ProductBuilder@1fdfafd2)" classname="lab4.Lab4Test" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
